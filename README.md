@@ -62,8 +62,8 @@
 ## 🤝 Vamos trocar ideia?
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">LinkedIn</a> •
-  <a href="mailto:seu@e-mail.com">E-mail</a>
+  <a href="https://www.linkedin.com/in/eduardo-felipe-92a040291/" target="_blank">LinkedIn</a> •
+  <a href="mailto:eduzzfelipe21@gmail.com">E-mail</a>
 </p>
 
 ---
