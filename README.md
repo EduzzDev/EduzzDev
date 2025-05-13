@@ -1,10 +1,8 @@
-## Hi there 👋
-
 <!--
 **EduzzDev/EduzzDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- README.md do perfil EduzzDev -->
 
-<h1 align="center">OI, eu sou o Edu 👋</h1>
+<h1 align="center">Oi, eu sou o Edu 👋</h1>
 
 <p align="center">
   <a href="https://github.com/EduzzDev">
