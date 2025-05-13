@@ -4,7 +4,7 @@
 **EduzzDev/EduzzDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- README.md do perfil EduzzDev -->
 
-<h1 align="center">Fala, eu sou o Edu 👋</h1>
+<h1 align="center">OI, eu sou o Edu 👋</h1>
 
 <p align="center">
   <a href="https://github.com/EduzzDev">
@@ -21,10 +21,9 @@
 ---
 
 ## 💻 Sobre mim
-- 🎓 Front-ender júnior que respira HTML, CSS e tá mergulhando de cabeça no JavaScript.  
+- 🎓 Front-end júnior que respira HTML, CSS e tá mergulhando de cabeça no JavaScript.  
 - 🚀 Próximo passo: React, TypeScript e APIs REST.  
-- ☕ Puxo uns cafés fortes, me perco em commits e cobro código limpo.
-
+- ☕ Puxo uns cafés fortes, Focando em evoluir cada vez mais e mais.
 ---
 
 ## 🛠 Tech Stack
