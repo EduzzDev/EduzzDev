@@ -21,7 +21,7 @@
 ## 💻 Sobre mim
 - 🎓 Front-end júnior que respira HTML, CSS e tá mergulhando de cabeça no JavaScript.  
 - 🚀 Próximo passo: React, TypeScript e APIs REST.  
-- ☕ Puxo uns cafés fortes, Focando em evoluir cada vez mais e mais.
+- ☕ Focando em evoluir cada vez mais e mais.
 ---
 
 ## 🛠 Tech Stack
