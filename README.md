@@ -36,12 +36,13 @@
 
 ## 🚀 Projetos em destaque
 
-| Projeto                           | Techs                  | Link                                           |
+| Projeto                           | Techs                  | Links dos Projetos rodando                     |
 | --------------------------------- | ---------------------- | ---------------------------------------------- |
+|[Simple_HomePage](#)               | HTML, CSS, JS          | https://simplehomepage-seven.vercel.app/       |
 | [Calculadora](#)                  | HTML, CSS, JS          | https://calculadora-wheat-one.vercel.app/      |      
 | [blog-card-css](#)                | HTML, CSS              | https://blog-card-lime-gamma.vercel.app/       |
 | [project-form](#)                 | HTML, CSS              | https://project-form-rouge.vercel.app/         |
-| **Em breve:** Projeto avançado JS | JS, HTML, CSS, APIs…   | (estou finalizando – já já coloco o link!)     |
+| **Em breve:**                     | JS,HTML,CSS,APIs,REACT | Fazendo novos Projetos                         |
 
 > **Veja todos**: https://github.com/EduzzDev?tab=repositories
 
