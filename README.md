@@ -1,73 +1,76 @@
-<!--
-**EduzzDev/EduzzDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- README.md do perfil EduzzDev -->
 
-<h1 align="center">Oi, eu sou o Edu 👋</h1>
+<h1 align="center">👋 Oi, eu sou o Edu!</h1>
 
 <p align="center">
-  <a href="https://github.com/EduzzDev">
-    <img src="https://komarev.com/ghpvc/?username=EduzzDev&color=blue" alt="Profile views"/>
-  </a>
+  <img src="https://img.shields.io/badge/Aprendendo%20e%20Evoluindo-💡-blue?style=flat-square" alt="Aprendendo e Evoluindo"/>
   <a href="https://github.com/EduzzDev?tab=repositories">
-    <img alt="Repositórios" src="https://img.shields.io/badge/repositorios-7-blue?style=flat-square"/>
+    <img alt="Repositórios" src="https://img.shields.io/badge/Repositórios-7-blue?style=flat-square"/>
   </a>
   <a href="https://github.com/EduzzDev?tab=stars">
-    <img alt="Estrelas" src="https://img.shields.io/badge/stars-★-blue?style=flat-square"/>
+    <img alt="Estrelas" src="https://img.shields.io/badge/⭐%20Stars-Obrigado%20pelo%20apoio!-blue?style=flat-square"/>
   </a>
 </p>
 
 ---
 
 ## 💻 Sobre mim
-- 🎓 Front-end júnior que respira HTML, CSS e tá mergulhando de cabeça no JavaScript.  
-- 🚀 Próximo passo: React, TypeScript e APIs REST.  
-- ☕ Focando em evoluir cada vez mais e mais.
+
+Sou um **desenvolvedor front-end júnior** apaixonado por transformar ideias em interfaces bonitas, funcionais e responsivas.  
+Atualmente estou focado em **HTML, CSS e JavaScript**, e avançando nos estudos de **React, TypeScript e APIs REST**.  
+
+💡 Sempre curioso, sempre aprendendo.  
+☕ Evoluindo um pouco mais a cada linha de código.
+
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 ---
 
 ## 🚀 Projetos em destaque
 
-| Projeto                           | Techs                  | Links dos Projetos rodando                     |
-| --------------------------------- | ---------------------- | ---------------------------------------------- |
-|[Simple_HomePage](#)               | HTML, CSS, JS          | https://simplehomepage-seven.vercel.app/       |
-| [Calculadora](#)                  | HTML, CSS, JS          | https://calculadora-wheat-one.vercel.app/      |      
-| [blog-card-css](#)                | HTML, CSS              | https://blog-card-lime-gamma.vercel.app/       |
-| [project-form](#)                 | HTML, CSS              | https://project-form-rouge.vercel.app/         |
-| **Em breve:**                     | JS,HTML,CSS,APIs,REACT | Fazendo novos Projetos                         |
+| Projeto | Tecnologias | Link |
+| :------ | :----------- | :--- |
+| [**Simple HomePage**](https://simplehomepage-seven.vercel.app/) | HTML, CSS, JS | 🔗 [Ver Projeto](https://simplehomepage-seven.vercel.app/) |
+| [**Calculadora**](https://calculadora-wheat-one.vercel.app/) | HTML, CSS, JS | 🔗 [Ver Projeto](https://calculadora-wheat-one.vercel.app/) |
+| [**Blog Card CSS**](https://blog-card-lime-gamma.vercel.app/) | HTML, CSS | 🔗 [Ver Projeto](https://blog-card-lime-gamma.vercel.app/) |
+| [**Project Form**](https://project-form-rouge.vercel.app/) | HTML, CSS | 🔗 [Ver Projeto](https://project-form-rouge.vercel.app/) |
+| 🧩 **Em breve** | HTML, CSS, JS, APIs, React | Novos projetos a caminho! |
 
-> **Veja todos**: https://github.com/EduzzDev?tab=repositories
+> 📚 **Confira todos os repositórios:** [github.com/EduzzDev?tab=repositories](https://github.com/EduzzDev?tab=repositories)
 
 ---
 
-## 📈 Minhas estatísticas
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduzzDev&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduzzDev&layout=compact&theme=dark" alt="Top Languages"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EduzzDev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduzzDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🤝 Vamos trocar ideia?
+## 🤝 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eduardo-felipe-92a040291/" target="_blank">LinkedIn</a> •
-  <a href="mailto:eduzzfelipe21@gmail.com">E-mail</a>
+  <a href="https://www.linkedin.com/in/eduardo-felipe-92a040291/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Edu%20Felipe-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:eduzzfelipe21@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-eduzzfelipe21@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
 </p>
 
 ---
 
 <details>
-  <summary>⭐ Curtiu? Dá uma estrelinha!</summary>
-  Valeu pelo apoio! 🚀  
+  <summary>⭐ Curtiu o perfil?</summary>
+  Se gostou, deixa uma **estrelinha** nos projetos — isso ajuda muito! 🚀  
 </details>
-
