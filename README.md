@@ -55,13 +55,6 @@ Estou em busca de **estágio** para ganhar experiência prática, colaborar com 
 > → Todos os repositórios: **https://github.com/EduzzDev?tab=repositories**
 
 ---
-
-## 📈 GitHub Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=EduzzDev&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduzzDev&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-</p>
-
 <p>
 Minha prioridade é aprender com projetos, receber feedback e evoluir todos os dias.  
 Gosto de dividir o aprendizado e construir coisas que as pessoas consigam usar.  
