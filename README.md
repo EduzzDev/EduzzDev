@@ -47,6 +47,7 @@ Estou em busca de **estágio** para ganhar experiência prática, colaborar com 
 
 | Projeto | Descrição curta | Tecnologias |
 |---|---:|:---|
+| **country-pages** | Countries Page é um projeto front-end que consome uma API de países para exibir informações como nome, população, região, bandeira. | HTML, TailwindCSS, ReactJS, JS|
 | **Simple HomePage** | Landing responsiva e clean e como mudança de dark e claro e também versão mobile | HTML, CSS, JS |
 | **Calculadora** | UI simples + lógica de operações | HTML, CSS, JS |
 | **Blog Card CSS** | Cartão com layout clean | HTML, CSS |
