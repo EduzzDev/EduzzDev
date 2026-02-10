@@ -7,14 +7,14 @@
 
 <p align="center">
   <!-- Tipagem curta: adequado para estudante / candidato a estágio -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=6a11cb&center=true&width=720&lines=Estudante+Front-end+%7C+Buscando+est%C3%A1gio;HTML+%2B+CSS+%2B+JS+%7C+Aprendendo+React+e+TypeScript;Apaixonado+por+aprender" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=6a11cb&center=true&width=720&lines=Desenvolvedor+Front-end+%7C+;HTML+%2B+CSS+%2B+JS+%7C+React+e+TypeScript;Apaixonado+por+aprender" alt="typing" />
 </p>
 
 ---
 
 ## 👋 Olá — eu sou o Edu!
 
-Sou um **desenvolvedor front-end em formação** que transforma ideias em interfaces simples, rápidas e agradáveis.  
+Sou um **desenvolvedor front-end** que transforma ideias em interfaces simples, rápidas e agradáveis.  
 Estou em busca de **estágio** para ganhar experiência prática, colaborar com times reais e evoluir como dev.
 
 **Meu foco atual:** HTML, CSS, JavaScript — avançando em React e TypeScript.  
