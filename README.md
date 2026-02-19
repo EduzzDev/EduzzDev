@@ -14,11 +14,10 @@
 
 ## 👋 Olá — eu sou o Edu!
 
-Sou um **desenvolvedor front-end** que transforma ideias em interfaces simples, rápidas e agradáveis.  
-Estou em busca de **estágio** para ganhar experiência prática, colaborar com times reais e evoluir como dev.
+Sou um **Desenvolvedor Front-end** crio webSites, aqui deixo meus projetos visível e adoro de codar :).  
 
 **Meu foco atual:** HTML, CSS, JavaScript — avançando em React e TypeScript.  
-**Meu objetivo:** entrar em uma equipe como estagiário e evoluir para posições efetivas através de boas entregas.
+**Meu objetivo:** Evoluir na programação e pode criar melhores sites cada vez mais completos e úteis.
 
 ---
 
