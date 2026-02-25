@@ -46,7 +46,8 @@ Sou um **Desenvolvedor Front-end** crio webSites, aqui deixo meus projetos visí
 
 | Projeto | Descrição curta | Tecnologias |
 |---|---:|:---|
-| **Country_pages** | Countries Page é um projeto front-end que consome uma API de países para exibir informações como nome, população, região, bandeira. | HTML, TailwindCSS, ReactJS, JS|
+| **Translate-page** | Uma pagina de tradução de três idiomas (Inglês, francês e Espanhol) parecido google tradutor nesse momento ainda em desenvolvimento. | HTML, TailwindCSS, ReactJS e Javascript
+| **Country_pages** | Countries Page é um projeto front-end que consome uma API de países para exibir informações como nome, população, região, bandeira. | HTML, TailwindCSS, ReactJS, Javascript|
 | **Simple HomePage** | Landing responsiva e clean e como mudança de dark e claro e também versão mobile | HTML, CSS, JS |
 | **Blog Card CSS** | Cartão com layout clean | HTML, CSS |
 | **Project Form** | Form com validação básica | HTML, CSS |
