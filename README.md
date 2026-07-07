@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <!-- Tipagem curta: adequado para estudante / candidato a estágio -->
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=6a11cb&center=true&width=720&lines=Desenvolvedor+Front-end+%7C+;HTML+%2B+CSS+%2B+JS+%7C+React+e+TypeScript;Apaixonado+por+aprender" alt="typing" />
 </p>
 
@@ -44,13 +43,16 @@ Sou um **Desenvolvedor Front-end** crio webSites, aqui deixo meus projetos visí
 
 ## 🌟 Projetos em destaque
 
-| Projeto | Descrição curta | Tecnologias |
-|---|---:|:---|
-| **Translate-page** | Uma pagina de tradução de três idiomas (Inglês, francês e Espanhol) parecido google tradutor nesse momento ainda em desenvolvimento. | HTML, TailwindCSS, ReactJS e Javascript
-| **Country_pages** | Countries Page é um projeto front-end que consome uma API de países para exibir informações como nome, população, região, bandeira. | HTML, TailwindCSS, ReactJS, Javascript|
-| **Simple HomePage** | Landing responsiva e clean e como mudança de dark e claro e também versão mobile | HTML, CSS, JS |
-| **Blog Card CSS** | Cartão com layout clean | HTML, CSS |
-| **Project Form** | Form com validação básica | HTML, CSS |
+<p align="center">
+  <img src="https://img.shields.io/badge/Projetos-em%20destaque-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="Projetos em destaque" />
+</p>
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| 🔐 **Login System** | Sistema Full Stack com autenticação JWT, cadastro de usuários, proteção de rotas, integração entre frontend e backend e persistência de dados. | React • TypeScript • Node.js • Express • SQLite • JWT |
+| 🌍 **Countries Page** | Aplicação React que consome a REST Countries API para pesquisa e visualização de informações sobre países. | React • JavaScript • React Router • API REST |
+| 🌐 **Translate Page** | Aplicação inspirada em tradutores online com suporte a múltiplos idiomas e interface moderna. | React • JavaScript • TailwindCSS |
+| 🏠 **Simple HomePage** | Landing Page responsiva desenvolvida com HTML, CSS e JavaScript, incluindo modo claro/escuro. | HTML • CSS • JavaScript |
 
 > → Todos os repositórios: **https://github.com/EduzzDev?tab=repositories**
 
