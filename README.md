@@ -11,12 +11,15 @@
 
 ---
 
-## 👋 Olá — eu sou o Edu!
+## 🌟 Sobre mim
 
 Sou um **Desenvolvedor Front-end** crio webSites, aqui deixo meus projetos visível e adoro de codar :).  
 
-**Meu foco atual:** HTML, CSS, JavaScript — avançando em React e TypeScript.  
+**Meu foco atual:** HTML, CSS, JavaScript e React.js.
+
 **Meu objetivo:** Evoluir na programação e pode criar melhores sites cada vez mais completos e úteis.
+
+**Proximos Passos nos estudos:** Typescript, testes unitários e docker.
 
 ---
 
@@ -34,7 +37,6 @@ Sou um **Desenvolvedor Front-end** crio webSites, aqui deixo meus projetos visí
   <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
   <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
   <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
   <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
   <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
 </p>
@@ -55,7 +57,7 @@ Sou um **Desenvolvedor Front-end** crio webSites, aqui deixo meus projetos visí
 
 > → Todos os repositórios: **https://github.com/EduzzDev?tab=repositories**
 
----
+--- 📈 Objetivo atual
 <p>
 Minha prioridade é aprender com projetos, receber feedback e evoluir todos os dias.  
 Gosto de dividir o aprendizado e construir coisas que as pessoas consigam usar.  
