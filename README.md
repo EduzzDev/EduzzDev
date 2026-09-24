@@ -13,7 +13,7 @@
 
 ## 🌟 Sobre mim
 
-Sou um **Desenvolvedor Front-end** crio webSites, aqui deixo meus projetos visível e adoro de codar :).  
+Sou um **Desenvolvedor Front-end** crio webSites, aqui deixo meus projetos visível e adoro codar :).  
 
 **Meu foco atual:** HTML, CSS, JavaScript e React.js.
 
