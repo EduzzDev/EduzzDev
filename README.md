@@ -17,7 +17,7 @@ Sou um **Desenvolvedor Front-end** crio webSites, aqui deixo meus projetos visí
 
 **Meu foco atual:** HTML, CSS, JavaScript e React.js.
 
-**Meu objetivo:** Evoluir na programação e pode criar melhores sites cada vez mais completos e úteis.
+**Meu objetivo:** Evoluir na programação e poder criar melhores sites cada vez mais completos e úteis.
 
 **Proximos Passos nos estudos:** Typescript, testes unitários e docker.
 
