@@ -49,7 +49,7 @@
 
 ## ◈ Projetos em destaque
 
-Todos estão no ar: clique em **Ver online** para testar.
+Todos estão no ar: clique em **Preview** para visualizar as capturas de tela, em **Ver online** para testar e em **Código** para acessar o repositório.
 
 <table width="100%">
   <tr>
@@ -60,7 +60,10 @@ Todos estão no ar: clique em **Ver online** para testar.
         <code>React</code> <code>Tailwind CSS</code> <code>Node.js</code> <code>Express</code> <code>SQLite</code> <code>JWT</code> <code>Socket.IO</code>
       </p>
       <p>
+        <a href="https://preview-project.vercel.app/login-system"><img src="https://img.shields.io/badge/Preview-6C63FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Ver preview do Login System" /></a>
+        &nbsp;
         <a href="https://login-system-eta-rose.vercel.app"><img src="https://img.shields.io/badge/Ver%20online-6C63FF?style=flat-square&logo=vercel&logoColor=white" alt="Ver o Login System online" /></a>
+        &nbsp;
         <a href="https://github.com/EduzzDev/LoginSystem"><img src="https://img.shields.io/badge/C%C3%B3digo-2D333B?style=flat-square&logo=github&logoColor=white" alt="Ver o código do Login System no GitHub" /></a>
       </p>
     </td>
@@ -76,7 +79,10 @@ Todos estão no ar: clique em **Ver online** para testar.
         <code>React</code> <code>React Router</code> <code>Tailwind CSS</code> <code>REST API</code>
       </p>
       <p>
+        <a href="https://preview-project.vercel.app/country-pages"><img src="https://img.shields.io/badge/Preview-6C63FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Ver preview do Country Pages" /></a>
+        &nbsp;
         <a href="https://country-pages-woad.vercel.app"><img src="https://img.shields.io/badge/Ver%20online-6C63FF?style=flat-square&logo=vercel&logoColor=white" alt="Ver o Country Pages online" /></a>
+        &nbsp;
         <a href="https://github.com/EduzzDev/Country_Pages"><img src="https://img.shields.io/badge/C%C3%B3digo-2D333B?style=flat-square&logo=github&logoColor=white" alt="Ver o código do Country Pages no GitHub" /></a>
       </p>
     </td>
@@ -87,7 +93,10 @@ Todos estão no ar: clique em **Ver online** para testar.
         <code>React</code> <code>Tailwind CSS</code> <code>REST API</code> <code>Web Speech API</code>
       </p>
       <p>
+        <a href="https://preview-project.vercel.app/translate-page"><img src="https://img.shields.io/badge/Preview-6C63FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Ver preview do Translate Page" /></a>
+        &nbsp;
         <a href="https://translate-page.vercel.app"><img src="https://img.shields.io/badge/Ver%20online-6C63FF?style=flat-square&logo=vercel&logoColor=white" alt="Ver o Translate Page online" /></a>
+        &nbsp;
         <a href="https://github.com/EduzzDev/Translate_page"><img src="https://img.shields.io/badge/C%C3%B3digo-2D333B?style=flat-square&logo=github&logoColor=white" alt="Ver o código do Translate Page no GitHub" /></a>
       </p>
     </td>
@@ -103,7 +112,10 @@ Todos estão no ar: clique em **Ver online** para testar.
         <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
       </p>
       <p>
+        <a href="https://preview-project.vercel.app/alarado"><img src="https://img.shields.io/badge/Preview-6C63FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Ver preview da Simple HomePage" /></a>
+        &nbsp;
         <a href="https://simplehomepage-seven.vercel.app"><img src="https://img.shields.io/badge/Ver%20online-6C63FF?style=flat-square&logo=vercel&logoColor=white" alt="Ver a Simple HomePage online" /></a>
+        &nbsp;
         <a href="https://github.com/EduzzDev/Simple_HomePage"><img src="https://img.shields.io/badge/C%C3%B3digo-2D333B?style=flat-square&logo=github&logoColor=white" alt="Ver o código da Simple HomePage no GitHub" /></a>
       </p>
     </td>
@@ -120,7 +132,7 @@ Todos estão no ar: clique em **Ver online** para testar.
 ## ◈ Vamos nos conectar?
 
 <p align="center">
-  Estou aberto a oportunidades como desenvolvedor Front-end júnior(estágio também). Se meu trabalho combina com o seu time, vamos conversar:
+  Estou aberto a oportunidades como desenvolvedor Front-end júnior (estágio também). Se meu trabalho combina com o seu time, vamos conversar:
 </p>
 
 <p align="center">
