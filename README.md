@@ -61,7 +61,7 @@ Todos estão no ar: clique em **Preview** para visualizar as capturas de tela, e
       <h3>🔐 Login System</h3>
       <p>Aplicação full stack com cadastro e login por JWT, rotas protegidas, gestão de sessões ativas em tempo real (Socket.IO), recuperação de senha por e-mail e painel de tarefas. Front em React, API própria em Node.js.</p>
       <p>
-        <code>React</code> <code>Tailwind CSS</code> <code>Node.js</code> <code>Express</code> <code>Docker</code> <code>SQLite</code> <code>JWT</code> <code>Socket.IO</code>
+        <code>React</code> <code>Tailwind CSS</code> <code>Node.js</code> <code>Express</code> <code>Docker</code> <code>SQLite</code> <code>JWT</code> <code>Socket.IO</code> <code>Material UI</code>
       </p>
       <p>
         <a href="https://preview-project.vercel.app/login-system"><img src="https://img.shields.io/badge/Preview-6C63FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Ver preview do Login System" /></a>
