@@ -44,7 +44,7 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,vite,vercel&theme=light" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,git,github,vscode,vite,vercel&theme=light" />
     <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,vercel&theme=dark" alt="Git, GitHub, VS Code, Vite e Vercel" />
   </picture>
 </p>
