@@ -4,7 +4,7 @@
 
 <h1 align="center">Eduardo Felipe</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1400&color=6C63FF&center=true&vCenter=true&width=520&lines=Desenvolvedor+Front-end;Interfaces+com+React+e+Tailwind+CSS;Estudante+de+Engenharia+de+Software" alt="Desenvolvedor Front-end. Interfaces com React e Tailwind CSS. Estudante de Engenharia de Software." />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1400&color=6C63FF&center=true&vCenter=true&width=520&lines=Desenvolvedor+Front-end;Interfaces+com+React+e+Tailwind+CSS;Projetos%20no%20ar:%20demo%20e%20c%C3%B3digo%20aberto;%20Estudante+de+Engenharia+de+Software" alt="Desenvolvedor Front-end. Interfaces com React e Tailwind CSS. Projetos no ar: demo e código aberto. Estudante de Engenharia de Software." />
 
 <p>
   <img src="./assets/pikachu.gif" width="160" alt="Pikachu animado em pixel art" />
@@ -35,7 +35,7 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=light" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs&theme=light" />
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="HTML, CSS, JavaScript, React e Tailwind CSS" />
   </picture>
 </p>
